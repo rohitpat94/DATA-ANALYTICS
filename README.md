@@ -1,0 +1,1 @@
+Welcome to the Data Analytics Project repository! This project showcases a comprehensive analysis workflow using multiple tools—Excel, SQL, Python, Tableau, and Power BI—to extract insights from raw data and present them in a compelling, decision-ready format.
